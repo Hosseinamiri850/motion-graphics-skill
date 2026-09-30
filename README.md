@@ -6,7 +6,7 @@ Built from a real production run: a 15-second, 6-scene, 60fps showreel rendered 
 
 ## Demo
 
-**[▶ Watch the demo showreel](assets/showreel-demo.mp4)** — 15s, 1920x1080, 60fps, six beat-synced scenes (kinetic type, identity build, data-viz motion, inverted type playground, 3D wireframe globe, outro lockup) with a fully synthesized soundtrack. Produced end-to-end by this skill's pipeline.
+**[▶ Watch the demo showreel](https://github.com/Hosseinamiri850/motion-graphics-skill/releases/download/v1.0.0/showreel-demo.mp4)** — 15s, 1920x1080, 60fps, six beat-synced scenes (kinetic type, identity build, data-viz motion, inverted type playground, 3D wireframe globe, outro lockup) with a fully synthesized soundtrack. Produced end-to-end by this skill's pipeline.
 
 ## What it makes
 
