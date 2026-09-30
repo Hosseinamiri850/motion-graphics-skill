@@ -4,6 +4,10 @@ An AI Motion Graphics Director + Producer + Animator. A reusable [Claude Code sk
 
 Built from a real production run: a 15-second, 6-scene, 60fps showreel rendered with 900 deterministic canvas frames, headless Chrome capture, a fully synthesized numpy soundtrack, and ffmpeg encode.
 
+## Demo
+
+**[▶ Watch the demo showreel](assets/showreel-demo.mp4)** — 15s, 1920x1080, 60fps, six beat-synced scenes (kinetic type, identity build, data-viz motion, inverted type playground, 3D wireframe globe, outro lockup) with a fully synthesized soundtrack. Produced end-to-end by this skill's pipeline.
+
 ## What it makes
 
 | Use case | Example brief |
